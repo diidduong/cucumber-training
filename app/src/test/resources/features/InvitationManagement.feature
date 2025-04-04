@@ -43,8 +43,8 @@ Feature: Invitation Management
   Scenario: Add cards
     Given I want to add a following cards
       | Name | Id |
-      | Huy  |  2 |
-      | Hao  |  3 |
+      | Huy  | 2  |
+      | Hao  | 3  |
     When Add that cards
     Then Both 2 cards are added
 
