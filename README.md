@@ -1,6 +1,6 @@
 # Cucumber Training
 
-This is a code example for Cucumber training using Java, Gradle, Cucumber, Junit, and VSCode.
+This is a code example for Cucumber training using MacOS, Java, Gradle, Cucumber, Junit, and VSCode.
 
 ## Run Test
 
