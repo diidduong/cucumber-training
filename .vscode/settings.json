@@ -1,0 +1,9 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "cucumber.features": [
+    "**/features/*.feature",
+  ],
+  "cucumber.glue": [
+    "**/steps/*.java",
+  ],
+}
